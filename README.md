@@ -39,7 +39,7 @@ ml-internship-journey/
 |---|---|---|
 | Week 1 | ML fundamentals, supervised and unsupervised learning, vectors and matrices, linear regression, cost function, and gradient descent | Completed |
 | Week 2 | Logistic regression, decision boundaries, multiclass classification, model evaluation, underfitting and overfitting, regularization, bias and variance, and error analysis | Completed |
-| Week 3 | To be updated | Upcoming |
+| Week 3 | Neural networks, network representation and learning, TensorFlow, activation functions, CNNs, and transfer learning | Completed |
 | Week 4 | To be updated | Upcoming |
 | Week 5 | To be updated | Upcoming |
 | Week 6 | To be updated | Upcoming |
